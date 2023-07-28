@@ -8,6 +8,7 @@ body {
   background-color: lightgray;
   font-family: Avenir Next;
   font-size: 16px;
+  display: flex;
 }
 
 /* wrapper for entire blog page */
@@ -153,3 +154,11 @@ footer {
   padding: 1rem;
   clear: both;
 }
+
+/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+/* @media (min-width:320px) { 
+  aside {
+
+  }
+
+} */
