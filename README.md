@@ -1,1 +1,1 @@
-# primer_final_project
+# Blog website for WBS Coding School
