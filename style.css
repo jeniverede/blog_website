@@ -41,6 +41,7 @@ header h2 {
   position: absolute;
   margin-left: 1rem;
   margin-top: -4rem;
+  text-wrap: wrap;
 }
 /* end of header  */
 
@@ -161,11 +162,11 @@ footer {
     justify-content: center;
   }
 
-  h1 {
+  header h1 {
     font-size: 2rem;
   }
 
-  h2 {
+  header h2 {
     font-size: 1.5rem;
   }
 }
