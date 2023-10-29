@@ -28,7 +28,7 @@ header img {
 /* h1 title overlays hero image at top */
 header h1 {
   color: white;
-  font-size: 2rem;
+  font-size: 1rem;
   position: absolute;
   margin-left: 1rem;
   margin-top: 0.25rem;
@@ -38,7 +38,7 @@ header h1 {
 /* h1 title overlays hero image at bottom */
 header h2 {
   color: white;
-  font-size: 1rem;
+  font-size: .5rem;
   position: absolute;
   margin-left: 1rem;
   margin-top: -4rem;
@@ -153,7 +153,7 @@ footer {
 /* tablet 1024px */
 @media screen and (min-width: 321px) and (max-width: 1920px) {
   .wrapper {
-    width: 100%;
+    width: 75%;
     display: flex;
     flex-direction: column;
   }
@@ -163,10 +163,10 @@ footer {
   }
 
   header h1 {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   header h2 {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 }
