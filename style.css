@@ -152,7 +152,7 @@ footer {
 }
 
 /* tablet 1024px */
-@media screen and (min-width: 321px) and (max-width: 1920px) {
+@media screen and (min-width: 414px) and (max-width: 1920px) {
   .wrapper {
     width: 75%;
     display: flex;
