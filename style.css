@@ -37,6 +37,7 @@ header h1 {
 /* h1 title overlays hero image at bottom */
 header h2 {
   color: white;
+  font-size: 0.875rem;
   position: absolute;
   margin-left: 1rem;
   margin-top: -4rem;
@@ -160,4 +161,11 @@ footer {
     justify-content: center;
   }
 
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
 }
