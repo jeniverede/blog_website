@@ -154,7 +154,6 @@ footer {
 /* above 829px */
 @media screen and (min-width: 829px) and (max-width: 1920px) {
   .wrapper {
-    width: 75%;
     display: flex;
     flex-direction: column;
   }
