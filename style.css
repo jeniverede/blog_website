@@ -28,7 +28,7 @@ header img {
 /* h1 title overlays hero image at top */
 header h1 {
   color: white;
-  width: 75%
+  width: 75%;
   position: absolute;
   margin-left: 1rem;
   margin-top: 0.25rem;
@@ -41,7 +41,6 @@ header h2 {
   position: absolute;
   width: 75%;
   margin-left: 1rem;
-  margin-right: 1rem;
   margin-top: -4rem;
   text-wrap: wrap;
 }
