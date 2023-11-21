@@ -7,7 +7,7 @@
 body {
   background-color: #8b7e8f;
   font-family: Avenir Next;
-  width: 75%;
+  width: 100%;
   margin: auto;
 }
 
@@ -149,7 +149,7 @@ footer {
 /* above 415px */
 @media screen and (min-width: 415px) and (max-width: 1920px) {
   .wrapper {
-    width: 100%;
+    width: 75%;
     display: flex;
     flex-direction: column;
   }
